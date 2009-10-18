@@ -10,7 +10,7 @@
                 \override Voice.TextScript #'padding = #2.0
                 \override MultiMeasureRest #'expand-limit = 1
 
-                \clef "tenor"
+                \clef "treble_8"
                 c 8 ( d )  |
                 e 4 e 8 f e d c c  |
                 d 2 r4 b, 8 c  |
