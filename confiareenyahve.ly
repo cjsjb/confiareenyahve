@@ -8,8 +8,14 @@
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
+\paper {
+	#(define line-width (* 7 in))
+	print-first-page-number = ##t
+	first-page-number = 1
+	ragged-bottom = ##t
+}
 global = { 
-    \partial 64*16
+    \partial 4*1
     \time 4/4
     \skip 4 \skip 1*34  %% 1-35
 }

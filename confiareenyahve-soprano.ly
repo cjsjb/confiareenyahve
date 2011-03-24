@@ -8,8 +8,11 @@
 	instrument = "Soprano"
 }
 #(set-global-staff-size 20)
+#(set-default-paper-size "letter")
 \paper {
-	#(set-paper-size "letter")
+	#(define line-width (* 7 in))
+	print-first-page-number = ##t
+	first-page-number = 1
 }
 global = { 
     \partial 4*1
