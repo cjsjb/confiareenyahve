@@ -50,7 +50,7 @@
                 g' 4 g' r f' 8 e'  |
                 f' 4 f' 8 e' f' e' f' a'  |
                 gis' 2 r4 a' 8 gis'  |
-                a' 4 e' gis' 8 f' e' d'  |
+                a' 4 f' gis' 8 f' e' d'  |
 %% 35
                 c' 1  |
                 \bar "|."
