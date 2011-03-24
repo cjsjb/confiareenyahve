@@ -3,8 +3,8 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-    title = "Confiaré en Yahvé"
-    tagline = "Coro Juvenil San Juan Bosco"
+	title = "Confiaré en Yahvé"
+	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Soprano"
 }
 #(set-global-staff-size 20)
@@ -14,24 +14,24 @@
 	print-first-page-number = ##t
 	first-page-number = 1
 }
-global = { 
-    \partial 4*1
-    \time 4/4
-    \skip 4 \skip 1*34  %% 1-35
+global = {
+	\partial 4*1
+	\time 4/4
+	\skip 4 \skip 1*34  %% 1-35
 }
 globalTempo = {
-    \tempo 4 = 70  \skip 4 \skip 1*34 
+	\tempo 4 = 70  \skip 4 \skip 1*34
 }
 
 \score {
-    \new StaffGroup <<
-        % force offset of colliding notes in chords:
-        \override Score.NoteColumn #'force-hshift = #1.0
+	\new StaffGroup <<
+		% force offset of colliding notes in chords:
+		\override Score.NoteColumn #'force-hshift = #1.0
 
-	\include "confiareenyahve-acordes.inc"
-	\include "confiareenyahve-soprano.inc"
+		\include "confiareenyahve-acordes.inc"
+		\include "confiareenyahve-soprano.inc"
 
-    >> % notes
+	>> % notes
 
-    \layout { }
+	\layout { }
 } % score
