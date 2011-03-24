@@ -13,43 +13,43 @@
                 \clef "treble"
                 c' 8 ( d' )  |
                 e' 4 e' 8 f' e' d' c' c'  |
-                d' 2 r4 b 8 c'  |
+                d' 2 ~ d' 8 r b c'  |
                 d' 4 d' 8 e' d' c' a b  |
 %% 5
-                c' 2 r4 c' 8 d'  |
+                c' 2 ~ c' 8 r c' d'  |
                 e' 4 e' 8 f' e' d' c' c'  |
-                d' 4 d' r b 8 c'  |
+                d' 4 d' ~ d' 8 r b c'  |
                 d' 4 d' 8 d' f' f' f' f'  |
-                e' 4 e' r c' 8 d'  |
+                e' 4 e' ( d' ) c' 8 d'  |
 %% 10
                 e' 8 d' e' f' e' d' c' c'  |
-                d' 4 d' r b 8 c'  |
+                d' 4 d' ~ d' 8 r b c'  |
                 d' 4 d' 8 e' d' c' a b  |
-                c' 4 c' r c' 8 d'  |
+                c' 4 c' ~ c' 8 r c' d'  |
                 e' 4 e' 8 f' e' ( d' ) c' c'  |
 %% 15
-                d' 4 d' r b 8 c'  |
+                d' 4 d' ~ d' 8 r b c'  |
                 d' 4 d' 8 d' f' f' f' f'  |
-                e' 2 _( d' 4 ) c' 8 d'  |
-                e' 8 d' e' d' e' _( d' ) e' f'  |
-                g' 4 g' r d' 8 e'  |
+                e' 2 ( d' 4 ) c' 8 d'  |
+                e' 8 d' e' d' e' ( d' ) e' f'  |
+                g' 4 g' ~ g' 8 r d' e'  |
 %% 20
                 f' 8 e' f' e' 16 f' 8. e' 8 f' g'  |
-                a' 4 a' r c' 8 c'  |
-                a' 4 a' 8 _( gis' ) a' b' c'' a'  |
-                g' 4 g' r f' 8 e'  |
+                a' 4 a' ~ a' 8 r c' c'  |
+                a' 4 a' 8 ( gis' ) a' b' c'' a'  |
+                g' 4 g' ~ g' 8 r f' e'  |
                 f' 8 e' f' e' 16 f' 8. e' 8 f' a'  |
 %% 25
-                gis' 2 r4 c' 8 d'  |
+                gis' 2 ~ gis' 8 r c' d'  |
                 e' 4. d' 8 e' d' e' f'  |
-                g' 4 g' r d' 8 e'  |
+                g' 4 g' ~ g' 8 r d' e'  |
                 f' 4 f' 8 e' 16 f' 8. e' 8 f' g'  |
-                a' 4 a' r c' 8 c'  |
+                a' 4 a' ~ a' 8 r c' c'  |
 %% 30
                 a' 8 gis' a' gis' 16 a' 8. b' 8 c'' a'  |
-                g' 4 g' r f' 8 e'  |
+                g' 4 g' ~ g' 8 r f' e'  |
                 f' 4 f' 8 e' f' e' f' a'  |
-                gis' 2 r4 a' 8 gis'  |
+                gis' 2 ~ gis' 8 r a' gis'  |
                 a' 4 f' gis' 8 f' e' d'  |
 %% 35
                 c' 1  |
