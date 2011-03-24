@@ -1,5 +1,5 @@
         \context Staff = "Mezzo" \with { \consists Ambitus_engraver } <<
-            \set Staff.instrumentName = "Mezzo"
+            \set Staff.instrumentName = "Mezzosoprano"
             \set Staff.shortInstrumentName = "M."
             \set Score.skipBars = ##t
             \set Staff.printKeyCancellation = ##f
@@ -10,7 +10,7 @@
                 \override Voice.TextScript #'padding = #2.0
                 \override MultiMeasureRest #'expand-limit = 1
 
-                \clef "treble_8"
+                \clef "treble"
                 c' 8 ( d' )  |
                 e' 4 e' 8 f' e' d' c' c'  |
                 b 2 r4 b 8 c'  |
@@ -19,8 +19,8 @@
                 a 2 r4 a 8 b  |
                 c' 4 c' 8 d' c' b a a  |
                 gis 4 gis r gis 8 a  |
-                b 4 _\markup { \italic ? }  b 8 _\markup { \italic ? }  b _\markup { \italic ? }  c' _\markup { \italic ? }  b _\markup { \italic ? }  c' _\markup { \italic ? }  d' _\markup { \italic ? }   |
-                e' 4 _\markup { \italic ? }  e' _\markup { \italic ? }  r c' 8 d'  |
+                b 4 b 8 b c' c' c' d'  |
+                e' 4 e' r c' 8 d'  |
 %% 10
                 e' 8 d' e' f' e' d' c' c'  |
                 b 4 b r b 8 c'  |
@@ -29,8 +29,8 @@
                 c' 4 c' 8 d' c' ( b ) a a  |
 %% 15
                 gis 4 gis r gis 8 a  |
-                b 4 _\markup { \italic ? }  b 8 _\markup { \italic ? }  b _\markup { \italic ? }  c' _\markup { \italic ? }  b _\markup { \italic ? }  c' _\markup { \italic ? }  d' _\markup { \italic ? }   |
-                e' 2 _\markup { \italic ? }  r4 c' 8 d'  |
+                b 4 b 8 b c' c' c' d'   |
+                e' 2 r4 c' 8 d'  |
                 e' 8 d' e' d' e' ^( d' ) e' f'  |
                 d' 4 d' r d' 8 e'  |
 %% 20
