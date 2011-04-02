@@ -34,5 +34,5 @@
 		d1:m e1:7
 
 		% final
-		d2:m e2:7 a1
+		d2:m e2:7 a1:m
 		}
