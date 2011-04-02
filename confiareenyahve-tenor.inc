@@ -11,6 +11,8 @@
 		\override MultiMeasureRest #'expand-limit = 1
 
 		\clef "treble_8"
+		\key c \major
+		r4  |  R1*7  |  r2.
 		c 8 ( d )  |
 		e 4 e 8 f e d c c  |
 		d 2 ~ d 8 r b, c  |
