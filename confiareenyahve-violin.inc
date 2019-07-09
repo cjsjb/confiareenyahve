@@ -1,4 +1,4 @@
-\context Staff = "Violin" <<
+\context Staff = "violin" <<
 	\set Staff.instrumentName = "Violín"
 	\set Staff.shortInstrumentName = "V."
 	\set Score.skipBars = ##t
@@ -12,6 +12,7 @@
 
 		\clef "treble"
 		\key c \major
+
 		c' 8 d'  |
 		e' 4 e' 8 e' f' e' d' c'  |
 		d' 2 e' 4 f'  |
