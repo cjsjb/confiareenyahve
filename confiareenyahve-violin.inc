@@ -18,7 +18,7 @@
 		f' 4 f' 8 f' g' f' e' d'  |
 %% 5
 		e' 2. e' 8 f'  |
-		g' 4 a' 2 _~ a' 16 bes' a' 8  |
+		g' 4 a' 2 ~ a' 16 bes' a' 8  |
 		g' 2 a' 4 g' 8 f'  |
 		f' 4 f' 8 f' g' f' e' f'  |
 		e' 2. r4  |
