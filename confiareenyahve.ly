@@ -5,6 +5,7 @@
 \header {
 	title = "Confiaré en Yahvé"
 	tagline = "Coro Juvenil San Juan Bosco"
+	composer = "Federico Carranza"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")

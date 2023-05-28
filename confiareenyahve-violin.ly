@@ -5,6 +5,7 @@
 \header {
 	title = "Confiaré en Yahvé"
 	tagline = "Coro Juvenil San Juan Bosco"
+	composer = "Federico Carranza"
 	instrument = "Violín"
 }
 #(set-global-staff-size 20)
