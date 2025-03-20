@@ -3,7 +3,7 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-	title = "Confiaré en Yahvé"
+	title = "Confiaré en Yahvé toda mi vida"
 	tagline = "Coro Juvenil San Juan Bosco"
 	composer = "Federico Carranza"
 	instrument = "Soprano"
