@@ -4,35 +4,35 @@
 
 	% intro
 	r4
-	c1 g1
-	d1:m a1:m
-	f1 c1
-	d1:m e1:7
+	d1 a1
+	e1:m b1:m
+	g1 d1
+	e1:m fis1:7
 
 	% estrofa 1
-	c1 g1
-	d2:m e2:7 a1:m
-	a1:m e1:7
-	e2:7 f2 c2 g2
+	d1 a1
+	e2:m fis2:7 b1:m
+	b1:m fis1:7
+	fis2:7 g2 d2 a2
 
 	% estrofa 2
-	c1 g1
-	d2:m e2:7 a1:m
-	a1:m e1:7
-	e2:7 f2 c2 g2
+	d1 a1
+	e2:m fis2:7 b1:m
+	b1:m fis1:7
+	fis2:7 g2 d2 a2
 
 	% estribillo 1
-	c1 g1
-	d1:m a1:m
-	f1 c1
-	d1:m e1:7
+	d1 a1
+	e1:m b1:m
+	g1 d1
+	e1:m fis1:7
 
 	% estribillo 2
-	c1 g1
-	d1:m a1:m
-	f1 c1
-	d1:m e1:7
+	d1 a1
+	e1:m b1:m
+	g1 d1
+	e1:m fis1:7
 
 	% final
-	d2:m e2:7 a1:m
-	}
+	e2:m fis2:7 b1:m
+}

@@ -28,8 +28,8 @@ globalTempo = {
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
-		\transpose c d { \include "confiareenyahve-acordes.inc" }
-		\transpose c d { \include "confiareenyahve-violin.inc" }
+		\include "confiareenyahve-acordes.inc"
+		\include "confiareenyahve-violin.inc"
 
 	>>
 

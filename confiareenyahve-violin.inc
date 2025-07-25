@@ -11,17 +11,19 @@
 		\override MultiMeasureRest #'expand-limit = 1
 
 		\clef "treble"
-		\key c \major
-
-		c' 8 d'  |
-		e' 4 e' 8 e' f' e' d' c'  |
-		d' 2 e' 4 f'  |
-		f' 4 f' 8 f' g' f' e' d'  |
+		\key d \major
+		d' 8 e'  |
+		fis' 4 fis' 8 fis' g' fis' e' d'  |
+		e' 2 fis' 4 g'  |
+		g' 4 g' 8 g' a' g' fis' e'  |
 %% 5
-		e' 2. e' 8 f'  |
-		g' 4 a' 2 ~ a' 16 bes' a' 8  |
-		g' 2 a' 4 g' 8 f'  |
-		f' 4 f' 8 f' g' f' e' f'  |
-		e' 2. r4  |
+		fis' 2. fis' 8 g'  |
+		a' 4 b' 2 ~ b' 16 c'' b' 8  |
+		a' 2 b' 4 a' 8 g'  |
+		g' 4 g' 8 g' a' g' fis' g'  |
+		fis' 2. r4  |
+%% 10
+		R1*34  |
+		\bar "|."
 		}
 >>

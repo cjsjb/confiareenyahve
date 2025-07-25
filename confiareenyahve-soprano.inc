@@ -11,51 +11,51 @@
 		\override MultiMeasureRest #'expand-limit = 1
 
 		\clef "treble"
-		\key c \major
-
-		r4  |  R1*7  |  r2.
-		c' 8 ( d' )  |
-		e' 4 e' 8 f' e' d' c' c'  |
-		d' 2 ~ d' 8 r b c'  |
-		d' 4 d' 8 e' d' c' a b  |
-%% 5
-		c' 2 ~ c' 8 r c' d'  |
-		e' 4 e' 8 f' e' d' c' c'  |
-		d' 4 d' ~ d' 8 r b c'  |
-		d' 4 d' 8 d' f' f' f' f'  |
-		e' 4 e' ( d' ) c' 8 d'  |
+		\key d \major
+		r4  |
+		R1*7  |
+		r2 r4 d' 8 ( e' )  |
 %% 10
-		e' 8 d' e' f' e' d' c' c'  |
-		d' 4 d' ~ d' 8 r b c'  |
-		d' 4 d' 8 e' d' c' a b  |
-		c' 4 c' ~ c' 8 r c' d'  |
-		e' 4 e' 8 f' e' ( d' ) c' c'  |
+		fis' 4 fis' 8 g' fis' e' d' d'  |
+		e' 2 ~ e' 8 r cis' d'  |
+		e' 4 e' 8 fis' e' d' b cis'  |
+		d' 2 ~ d' 8 r d' e'  |
+		fis' 4 fis' 8 g' fis' e' d' d'  |
 %% 15
-		d' 4 d' ~ d' 8 r b c'  |
-		d' 4 d' 8 d' f' f' f' f'  |
-		e' 2 ( d' 4 ) c' 8 d'  |
-		e' 8 d' e' d' e' ( d' ) e' f'  |
-		g' 4 g' ~ g' 8 r d' e'  |
+		e' 4 e' ~ e' 8 r cis' d'  |
+		e' 4 e' 8 e' g' g' g' g'  |
+		fis' 4 fis' ( e' ) d' 8 e'  |
+		fis' 8 e' fis' g' fis' e' d' d'  |
+		e' 4 e' ~ e' 8 r cis' d'  |
 %% 20
-		f' 8 e' f' e' 16 f' 8. e' 8 f' g'  |
-		a' 4 a' ~ a' 8 r c' c'  |
-		a' 4 a' 8 ( gis' ) a' b' c'' a'  |
-		g' 4 g' ~ g' 8 r f' e'  |
-		f' 8 e' f' e' 16 f' 8. e' 8 f' a'  |
+		e' 4 e' 8 fis' e' d' b cis'  |
+		d' 4 d' ~ d' 8 r d' e'  |
+		fis' 4 fis' 8 g' fis' ( e' ) d' d'  |
+		e' 4 e' ~ e' 8 r cis' d'  |
+		e' 4 e' 8 e' g' g' g' g'  |
 %% 25
-		gis' 2 ~ gis' 8 r c' d'  |
-		e' 4. d' 8 e' d' e' f'  |
-		g' 4 g' ~ g' 8 r d' e'  |
-		f' 4 f' 8 e' 16 f' 8. e' 8 f' g'  |
-		a' 4 a' ~ a' 8 r c' c'  |
+		fis' 2 ( e' 4 ) d' 8 e'  |
+		fis' 8 e' fis' e' fis' ( e' ) fis' g'  |
+		a' 4 a' ~ a' 8 r e' fis'  |
+		g' 8 fis' g' fis' 16 g' 8. fis' 8 g' a'  |
+		b' 4 b' ~ b' 8 r d' d'  |
 %% 30
-		a' 8 gis' a' gis' 16 a' 8. b' 8 c'' a'  |
-		g' 4 g' ~ g' 8 r f' e'  |
-		f' 4 f' 8 e' f' e' f' a'  |
-		gis' 2 ~ gis' 8 r a' gis'  |
-		a' 4 f' gis' 8 f' e' d'  |
+		b' 4 b' 8 ( bes' ) b' cis'' d'' b'  |
+		a' 4 a' ~ a' 8 r g' fis'  |
+		g' 8 fis' g' fis' 16 g' 8. fis' 8 g' b'  |
+		bes' 2 ~ bes' 8 r d' e'  |
+		fis' 4. e' 8 fis' e' fis' g'  |
 %% 35
-		c' 1  |
+		a' 4 a' ~ a' 8 r e' fis'  |
+		g' 4 g' 8 fis' 16 g' 8. fis' 8 g' a'  |
+		b' 4 b' ~ b' 8 r d' d'  |
+		b' 8 bes' b' bes' 16 b' 8. cis'' 8 d'' b'  |
+		a' 4 a' ~ a' 8 r g' fis'  |
+%% 40
+		g' 4 g' 8 fis' g' fis' g' b'  |
+		bes' 2 ~ bes' 8 r b' bes'  |
+		b' 4 g' bes' 8 g' fis' e'  |
+		d' 1  |
 		\bar "|."
 	}
 
