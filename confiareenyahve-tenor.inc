@@ -24,7 +24,7 @@
 		d 2 ~ d 8 r b b  |
 		b 4 b 8 b b b b b  |
 %% 15
-		bes 4 bes ~ bes 8 r fis fis  |
+		ais 4 ais ~ ais 8 r fis fis  |
 		fis 4 fis 8 fis g g g g  |
 		a 4 a ~ a d 8 e  |
 		fis 8 e fis g fis e d d  |
@@ -33,7 +33,7 @@
 		e 4 e 8 fis e d b, cis  |
 		d 4 d ~ d 8 r b b  |
 		b 4 b 8 b b ~ b b b  |
-		bes 4 bes ~ bes 8 r fis fis  |
+		ais 4 ais ~ ais 8 r fis fis  |
 		fis 4 fis 8 fis g g g g  |
 %% 25
 		a 2 ~ a 4 fis 8 g  |
@@ -56,7 +56,7 @@
 %% 40
 		b 4 b 8 a b a b d'  |
 		cis' 2 ~ cis' 8 r d' cis'  |
-		d' 4 b cis' 8 b bes g  |
+		d' 4 b cis' 8 b ais g  |
 		fis 1  |
 		\bar "|."
 	}

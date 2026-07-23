@@ -42,21 +42,21 @@
 		g' 8 fis' g' fis' 16 g' 8. fis' 8 g' a'  |
 		b' 4 b' ~ b' 8 r d' d'  |
 %% 30
-		b' 4 b' 8 ( bes' ) b' cis'' d'' b'  |
+		b' 4 b' 8 ( ais' ) b' cis'' d'' b'  |
 		a' 4 a' ~ a' 8 r g' fis'  |
 		g' 8 fis' g' fis' 16 g' 8. fis' 8 g' b'  |
-		bes' 2 ~ bes' 8 r d' e'  |
+		ais' 2 ~ ais' 8 r d' e'  |
 		fis' 4. e' 8 fis' e' fis' g'  |
 %% 35
 		a' 4 a' ~ a' 8 r e' fis'  |
 		g' 4 g' 8 fis' 16 g' 8. fis' 8 g' a'  |
 		b' 4 b' ~ b' 8 r d' d'  |
-		b' 8 bes' b' bes' 16 b' 8. cis'' 8 d'' b'  |
+		b' 8 ais' b' ais' 16 b' 8. cis'' 8 d'' b'  |
 		a' 4 a' ~ a' 8 r g' fis'  |
 %% 40
 		g' 4 g' 8 fis' g' fis' g' b'  |
-		bes' 2 ~ bes' 8 r b' bes'  |
-		b' 4 g' bes' 8 g' fis' e'  |
+		ais' 2 ~ ais' 8 r b' ais'  |
+		b' 4 g' ais' 8 g' fis' e'  |
 		d' 1  |
 		\bar "|."
 	}
