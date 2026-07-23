@@ -1,5 +1,4 @@
-\context ChordNames
-	\chords {
+\context ChordNames \chords {
 	\set chordChanges = ##t
 
 	% intro
